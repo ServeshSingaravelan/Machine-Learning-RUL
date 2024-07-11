@@ -7,6 +7,7 @@ python
 ```
 cd to a folder of your choice
 git clone https://mygit.th-deg.de/machine-learning-prok-group/ml-semper-fortis.git
+or download zip of source code and unzip it at the desired folder
 
 cd to the cloned repo
 do: pip install - r requirements.txt
