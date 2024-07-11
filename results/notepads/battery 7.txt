@@ -1,0 +1,6 @@
+Best parameters found:  {'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+Training score:  0.9839482933451958
+Testing score:  0.9421361084953003
+Training RMSE:  9.801707874430164
+Testing RMSE:  4.651999078112302
+RMSE for the new dataset: 9.010382949080721
